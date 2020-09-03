@@ -1,5 +1,11 @@
 # WebQuiz
 
+
+<!----Made By Priyansh Agrawal--------!>
+<!-----Please Dont copy this code---------!>
+<!-------Special Thanks to my Friend Lovedeep who help me in this------!>
+<!----------Successs always depend on your work-----!>
+
 Its not a copy paste 
 I currently work on it
 
@@ -11,3 +17,10 @@ After get certificate
 Thank you,😊
 
 Priyansh Agrawal
+
+
+
+<!----Made By Priyansh Agrawal--------!>
+<!-----Please Dont copy this code---------!>
+<!-------Special Thanks to my Friend Lovedeep who help me in this------!>
+<!----------Successs always depend on your work-----!>
