@@ -6,7 +6,7 @@
 <!-------Special Thanks to my Friend Lovedeep who help me in this------!>
 <!----------Successs always depend on your work-----!>
 
-Its not a copy paste 
+Its not a copy paste code
 I currently work on it
 
 
